@@ -8,7 +8,7 @@
 "repository":
   "name": "parser"
   "description": "[WIP] A PHP parser written in PHP"
-  "homepage": ''
+  "homepage": "https://github.com/ghostwriter/parser"
   "default_branch": "0.1.x"
   "allow_auto_merge": true
   "allow_forking": true
