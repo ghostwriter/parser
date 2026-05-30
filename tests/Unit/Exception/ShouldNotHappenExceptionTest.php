@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Tests\Unit\Exception;
 
-use Ghostwriter\Wip\Exception\ShouldNotHappenException;
-use Ghostwriter\Wip\Interface\ExceptionInterface;
+use Ghostwriter\Parser\Exception\ShouldNotHappenException;
+use Ghostwriter\Parser\Interface\ExceptionInterface;
 use LogicException;
 use PHPUnit\Framework\Attributes\CoversClass;
 use Tests\Unit\AbstractTestCase;

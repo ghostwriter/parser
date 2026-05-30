@@ -7,8 +7,8 @@
     "state": "open"
 "repository":
   "name": "wip"
-  "description": "[WIP] Here be dragons"
-  "homepage": "https://github.com/ghostwriter/wip"
+  "description": "[WIP] A PHP parser written in PHP"
+  "homepage": "https://github.com/ghostwriter/parser"
   "default_branch": "0.1.x"
   "allow_auto_merge": true
   "allow_forking": true
