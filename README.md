@@ -1,9 +1,9 @@
-# Wip
+# Parser
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@ghostwriter/wip&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
-[![Automation](https://github.com/ghostwriter/wip/actions/workflows/automation.yml/badge.svg)](https://github.com/ghostwriter/wip/actions/workflows/automation.yml)
-[![Supported PHP Version](https://badgen.net/packagist/php/ghostwriter/wip?color=8892bf)](https://www.php.net/supported-versions)
-[![Downloads](https://badgen.net/packagist/dt/ghostwriter/wip?color=blue)](https://packagist.org/packages/ghostwriter/wip)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@ghostwriter/parser&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
+[![Automation](https://github.com/ghostwriter/parser/actions/workflows/automation.yml/badge.svg)](https://github.com/ghostwriter/parser/actions/workflows/automation.yml)
+[![Supported PHP Version](https://badgen.net/packagist/php/ghostwriter/parser?color=8892bf)](https://www.php.net/supported-versions)
+[![Downloads](https://badgen.net/packagist/dt/ghostwriter/parser?color=blue)](https://packagist.org/packages/ghostwriter/parser)
 
 work in progress
 
@@ -16,7 +16,7 @@ work in progress
 You can install the package via composer:
 
 ``` bash
-composer require ghostwriter/wip
+composer require ghostwriter/parser
 ```
 
 ### Star ⭐️ this repo if you find it useful
@@ -32,7 +32,7 @@ You can also star (🌟) this repo to find it easier later.
 ### Credits
 
 - [Nathanael Esayeas](https://github.com/ghostwriter)
-- [All Contributors](https://github.com/ghostwriter/wip/contributors)
+- [All Contributors](https://github.com/ghostwriter/parser/contributors)
 
 ### Changelog
 
