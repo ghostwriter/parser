@@ -34,7 +34,7 @@ final readonly class NameResolverFactory implements FactoryInterface
         // then the `resolvedName` attribute will not be present,
         // and instead a `namespacedName` attribute is added.
         //
-        //The `replaceNodes` attribute is useful if you wish to perform modifications on the AST,
+        // The `replaceNodes` attribute is useful if you wish to perform modifications on the AST,
         // as you probably do not wish the resulting code to have fully resolved names as a side-effect.
         return new NameResolver($container->get(ErrorHandler::class), [
             'preserveOriginalNames' => true,

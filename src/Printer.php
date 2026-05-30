@@ -5,10 +5,11 @@ declare(strict_types=1);
 namespace Ghostwriter\Parser;
 
 use Override;
-use PhpParser\Node;
 use PhpParser\Node\Stmt;
 use PhpParser\Node\Stmt\Declare_;
 use PhpParser\PrettyPrinter\Standard;
+
+use function sprintf;
 
 final class Printer extends Standard
 {
@@ -16,7 +17,9 @@ final class Printer extends Standard
     protected function pStmt_Declare(Declare_ $node): string
     {
         $commaSeparated = $this->pCommaSeparated($node->declares);
-        return sprintf('declare(%s)%s',
+
+        return sprintf(
+            'declare(%s)%s',
             $commaSeparated,
             match (true) {
                 null === $node->stmts => ';',

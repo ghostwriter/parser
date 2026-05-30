@@ -32,6 +32,7 @@ final readonly class NodeTraverserFactory implements FactoryInterface
                 {
                     $node->setAttribute('origNode', clone $node);
                     $node->setAttribute(self::class, spl_object_hash($node));
+
                     return $node;
                 }
             },
