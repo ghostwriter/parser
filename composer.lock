@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9f457a98aca37b0e3f6e9a00e782c39b",
+    "content-hash": "9ea395d1e4a65f6ff17ac6cdcf185f59",
     "packages": [
         {
             "name": "ghostwriter/case-converter",
@@ -2933,16 +2933,16 @@
     "packages-dev": [
         {
             "name": "boundwize/structarmed",
-            "version": "0.12.1",
+            "version": "0.13.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/boundwize/structarmed.git",
-                "reference": "163d33656d20a19d41e51decb25129923a750f87"
+                "reference": "934668b7ee85fac57536c9bca6446981e8291da8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/boundwize/structarmed/zipball/163d33656d20a19d41e51decb25129923a750f87",
-                "reference": "163d33656d20a19d41e51decb25129923a750f87",
+                "url": "https://api.github.com/repos/boundwize/structarmed/zipball/934668b7ee85fac57536c9bca6446981e8291da8",
+                "reference": "934668b7ee85fac57536c9bca6446981e8291da8",
                 "shasum": ""
             },
             "require": {
@@ -2953,7 +2953,7 @@
             },
             "require-dev": {
                 "laminas/laminas-coding-standard": "^3.1",
-                "phpstan/phpstan": "^2.1",
+                "phpstan/phpstan": "^2.2",
                 "phpunit/phpunit": "^11.5",
                 "rector/rector": "dev-main"
             },
@@ -2996,7 +2996,7 @@
             ],
             "support": {
                 "issues": "https://github.com/boundwize/structarmed/issues",
-                "source": "https://github.com/boundwize/structarmed/tree/0.12.1"
+                "source": "https://github.com/boundwize/structarmed/tree/0.13.4"
             },
             "funding": [
                 {
@@ -3004,7 +3004,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-06-05T19:03:15+00:00"
+            "time": "2026-06-13T21:07:09+00:00"
         },
         {
             "name": "fidry/cpu-core-counter",
