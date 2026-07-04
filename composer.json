@@ -62,7 +62,8 @@
         "ghostwriter/option": "^2.0.0",
         "ghostwriter/result": "^2.0.0",
         "ghostwriter/shell": "^0.1.6",
-        "ghostwriter/uuid": "^1.0.3"
+        "ghostwriter/uuid": "^1.0.3",
+        "nikic/php-parser": "^5.8.0"
     },
     "require-dev": {
         "ext-xdebug": "*",
