@@ -3023,16 +3023,16 @@
     "packages-dev": [
         {
             "name": "boundwize/jsonrecast",
-            "version": "0.2.17",
+            "version": "0.3.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/boundwize/jsonrecast.git",
-                "reference": "0bfa7ca75bfe7253af3f3160578ff4693575a193"
+                "reference": "01acbd145006539b7d979220f219239b175467fd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/boundwize/jsonrecast/zipball/0bfa7ca75bfe7253af3f3160578ff4693575a193",
-                "reference": "0bfa7ca75bfe7253af3f3160578ff4693575a193",
+                "url": "https://api.github.com/repos/boundwize/jsonrecast/zipball/01acbd145006539b7d979220f219239b175467fd",
+                "reference": "01acbd145006539b7d979220f219239b175467fd",
                 "shasum": ""
             },
             "require": {
@@ -3080,7 +3080,7 @@
             ],
             "support": {
                 "issues": "https://github.com/boundwize/jsonrecast/issues",
-                "source": "https://github.com/boundwize/jsonrecast/tree/0.2.17"
+                "source": "https://github.com/boundwize/jsonrecast/tree/0.3.8"
             },
             "funding": [
                 {
@@ -3088,7 +3088,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-07-04T12:39:59+00:00"
+            "time": "2026-07-08T07:47:03+00:00"
         },
         {
             "name": "boundwize/structarmed",
