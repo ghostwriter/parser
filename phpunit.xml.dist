@@ -14,7 +14,6 @@
     recordTestRunHistory="false"
     requireCoverageMetadata="true"
     requireSealedMockObjects="true"
-    stopOnFailure="true"
 >
     <coverage pathCoverage="true" disableCodeCoverageIgnore="true">
         <report>
